@@ -1,2 +1,2 @@
-# Programas Python
-Programas en Python
+# Juego 21 Python
+Programa juego 21 en Python
